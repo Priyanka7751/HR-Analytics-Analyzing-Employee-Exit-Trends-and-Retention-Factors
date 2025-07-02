@@ -63,8 +63,8 @@ This project demonstrates the ability to clean raw HR data, derive meaningful ca
 
 ## 📌 Recommendations
 
-**Enhance Work-Life Balance Policies:**
-- Since poor work-life balance is the most cited reason for attrition, introduce flexible work schedules, remote/hybrid options, and workload redistribution initiatives.
+- **Enhance Work-Life Balance Policies:**
+  Since poor work-life balance is the most cited reason for attrition, introduce flexible work schedules, remote/hybrid options, and workload redistribution initiatives.
 
 **Focus on Female Retention Strategies:**
 - With higher attrition among female employees, implement mentorship programs, career growth support, and safe, inclusive workplace practices to boost engagement.
