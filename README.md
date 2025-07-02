@@ -15,6 +15,7 @@ This dataset is provided by the Government of Queensland, Australia – Departme
 - Explore demographic trends related to employee exits
 - Provide actionable insights to improve employee experience and reduce attrition
 
+---
 
 - 🔧 **Data Cleaning Tool**: Microsoft Excel  
 - 📈 **Visualization Tool**: Power BI  
