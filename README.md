@@ -1,8 +1,20 @@
 # 🧑‍💼 Employee Exit Survey Analysis (Excel + Power BI)
 
-## 📊 Overview
+## 📊 Business Context
 
-This project focuses on analyzing employee attrition patterns using an Employee Exit Survey dataset. The objective is to identify key factors contributing to attrition and provide actionable insights for HR and organizational decision-makers.
+This dataset is provided by the Government of Queensland, Australia – Department of Education, Training, and Employment (DETE). It contains responses from exit surveys conducted with employees who resigned or retired from the Department.
+
+---
+
+## Objectives
+
+- Identify key factors contributing to employee turnover
+- Evaluate workplace satisfaction and morale
+- Analyze perceptions of management support and work-life balance
+- Assess the impact of stress, workload, and development opportunities
+- Explore demographic trends related to employee exits
+- Provide actionable insights to improve employee experience and reduce attrition
+
 
 - 🔧 **Data Cleaning Tool**: Microsoft Excel  
 - 📈 **Visualization Tool**: Power BI  
@@ -29,16 +41,6 @@ Developed an interactive dashboard that highlights:
 
 ---
 
-## 🔍 Key Insights
-
-- Work-life balance emerged as the top attrition reason across all employees
-- Female attrition is higher compared to males
-- Early career employees often leave due to relocation
-- Mid-career employees leave primarily for private sector opportunities
-- Permanent full-time employees frequently cited workload as a reason for exit
-
----
-
 ## 📁 Files Included
 
 - `Employee_Exit_Survey.xlsx` — Raw dataset
@@ -55,9 +57,13 @@ Developed an interactive dashboard that highlights:
 
 ---
 
-## 📌 Outcome
+## 🔍 Key Insights
 
-This project demonstrates the ability to clean raw HR data, derive meaningful categorizations, and present actionable insights using Power BI dashboards. It simulates a real-world HR analytics use case and strengthens my data analysis portfolio.
+- Work-life balance emerged as the top attrition reason across all employees
+- Female attrition is higher compared to males
+- Early career employees often leave due to relocation
+- Mid-career employees leave primarily for private sector opportunities
+- Permanent full-time employees frequently cited workload as a reason for exit
 
 ---
 
